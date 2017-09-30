@@ -32,13 +32,13 @@ a.addEventListener("load",function(){
     console.log("leds", leds);
     kippschalter.push(kippschalter_I6,kippschalter_I7,kippschalter_I8,kippschalter_I9,kippschalter_I10);
 
-    console.log("kipp", kippschalter_I10);
-    kippschalter_I10.childNodes.forEach(function(e) {
-        if(e.id && e.id.startsWith("flipped")) {
-            e.style.display = "none"
-        }
-    });
-
+    kippschalter.forEach(function(e){
+        e.childNodes.forEach(function(e) {
+            if(e.id && e.id.startsWith("flipped")) {
+                e.style.display = "none"
+            }
+        });
+    })
 
     // Add Eventlistener
     kippschalter.forEach(function(e) {

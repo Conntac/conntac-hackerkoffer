@@ -211,6 +211,13 @@
     <path id="circle-3" data-name="circle" d="M813,616.5c0,9.1-2,16.5-11.5,16.5S790,625.6,790,616.5s5.1-16.5,11.5-16.5S813,607.4,813,616.5Z" style="fill: #fa2936"/>
     <path d="M807,595H796v-7c2-4,9-4,11,0Z" style="fill: #854f3b"/>
     <circle id="circle-4" data-name="circle" cx="801.5" cy="603.5" r="14.5" style="fill: #fa2936"/>
+    <circle id="flipped-8" data-name="flipped" cx="801" cy="593" r="29" style="fill: #b5bab3"/>
+    <circle id="flipped-9" data-name="flipped" cx="801" cy="593" r="24.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-10" data-name="flipped" cx="801" cy="593" r="20.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-11" data-name="flipped" cx="800.5" cy="593.5" r="13" style="fill: gray;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <path id="flipped-12" data-name="flipped" d="M789,568.5c0-9.1,2-16.5,11.5-16.5s11.5,7.4,11.5,16.5S806.9,585,800.5,585,789,577.6,789,568.5Z" style="fill: #fa2936"/>
+    <path id="flipped-13" data-name="flipped" d="M795,590h11v7c-2,4-9,4-11,0Z" style="fill: #854f3b"/>
+    <circle id="flipped-14" data-name="flipped" cx="800.5" cy="581.5" r="14.5" style="fill: #fa2936"/>
   </g>
   <g id="I8">
     <circle id="ring-39" data-name="ring" cx="712" cy="592" r="29" style="fill: #b5bab3"/>
@@ -220,6 +227,13 @@
     <path id="circle-5" data-name="circle" d="M724,616.5c0,9.1-2,16.5-11.5,16.5S701,625.6,701,616.5s5.1-16.5,11.5-16.5S724,607.4,724,616.5Z" style="fill: #fa2936"/>
     <path d="M718,595H707v-7c2-4,9-4,11,0Z" style="fill: #854f3b"/>
     <circle id="circle-6" data-name="circle" cx="712.5" cy="603.5" r="14.5" style="fill: #fa2936"/>
+    <circle id="flipped-15" data-name="flipped" cx="712" cy="591" r="29" style="fill: #b5bab3"/>
+    <circle id="flipped-16" data-name="flipped" cx="712" cy="591" r="24.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-17" data-name="flipped" cx="712" cy="591" r="20.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-18" data-name="flipped" cx="711.5" cy="591.5" r="13" style="fill: gray;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <path id="flipped-19" data-name="flipped" d="M700,566.5c0-9.1,2-16.5,11.5-16.5s11.5,7.4,11.5,16.5S717.9,583,711.5,583,700,575.6,700,566.5Z" style="fill: #fa2936"/>
+    <path id="flipped-20" data-name="flipped" d="M706,588h11v7c-2,4-9,4-11,0Z" style="fill: #854f3b"/>
+    <circle id="flipped-21" data-name="flipped" cx="711.5" cy="579.5" r="14.5" style="fill: #fa2936"/>
   </g>
   <g id="I7">
     <circle id="ring-43" data-name="ring" cx="622" cy="592" r="29" style="fill: #b5bab3"/>
@@ -229,6 +243,13 @@
     <path id="circle-7" data-name="circle" d="M634,616.5c0,9.1-2,16.5-11.5,16.5S611,625.6,611,616.5s5.1-16.5,11.5-16.5S634,607.4,634,616.5Z" style="fill: #fa2936"/>
     <path d="M628,595H617v-7c2-4,9-4,11,0Z" style="fill: #854f3b"/>
     <circle id="circle-8" data-name="circle" cx="622.5" cy="603.5" r="14.5" style="fill: #fa2936"/>
+    <circle id="flipped-22" data-name="flipped" cx="622" cy="591" r="29" style="fill: #b5bab3"/>
+    <circle id="flipped-23" data-name="flipped" cx="622" cy="591" r="24.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-24" data-name="flipped" cx="622" cy="591" r="20.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-25" data-name="flipped" cx="621.5" cy="591.5" r="13" style="fill: gray;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <path id="flipped-26" data-name="flipped" d="M610,566.5c0-9.1,2-16.5,11.5-16.5s11.5,7.4,11.5,16.5S627.9,583,621.5,583,610,575.6,610,566.5Z" style="fill: #fa2936"/>
+    <path id="flipped-27" data-name="flipped" d="M616,588h11v7c-2,4-9,4-11,0Z" style="fill: #854f3b"/>
+    <circle id="flipped-28" data-name="flipped" cx="621.5" cy="579.5" r="14.5" style="fill: #fa2936"/>
   </g>
   <g id="I6">
     <circle id="ring-47" data-name="ring" cx="533" cy="592" r="29" style="fill: #b5bab3"/>
@@ -238,6 +259,13 @@
     <path id="circle-9" data-name="circle" d="M545,616.5c0,9.1-2,16.5-11.5,16.5S522,625.6,522,616.5s5.1-16.5,11.5-16.5S545,607.4,545,616.5Z" style="fill: #fa2936"/>
     <path d="M539,595H528v-7c2-4,9-4,11,0Z" style="fill: #854f3b"/>
     <circle id="circle-10" data-name="circle" cx="533.5" cy="603.5" r="14.5" style="fill: #fa2936"/>
+    <circle id="flipped-29" data-name="flipped" cx="532" cy="594" r="29" style="fill: #b5bab3"/>
+    <circle id="flipped-30" data-name="flipped" cx="532" cy="594" r="24.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-31" data-name="flipped" cx="532" cy="594" r="20.5" style="fill: #ccc;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <circle id="flipped-32" data-name="flipped" cx="531.5" cy="594.5" r="13" style="fill: gray;stroke: #e6e6e6;stroke-miterlimit: 10"/>
+    <path id="flipped-33" data-name="flipped" d="M520,569.5c0-9.1,2-16.5,11.5-16.5s11.5,7.4,11.5,16.5S537.9,586,531.5,586,520,578.6,520,569.5Z" style="fill: #fa2936"/>
+    <path id="flipped-34" data-name="flipped" d="M526,591h11v7c-2,4-9,4-11,0Z" style="fill: #854f3b"/>
+    <circle id="flipped-35" data-name="flipped" cx="531.5" cy="582.5" r="14.5" style="fill: #fa2936"/>
   </g>
   <g id="O10">
     <circle id="ring-51" data-name="ring" cx="848" cy="897" r="29" style="fill: #b5bab3"/>
