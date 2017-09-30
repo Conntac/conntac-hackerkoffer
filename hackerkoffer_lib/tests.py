@@ -8,9 +8,8 @@ def test_all_leds():
     for i in range(11):
         print("LED %i" %i)
         hackerkoffer.led_on(i)
-        time.sleep(1)
+        time.sleep(0.5)
         hackerkoffer.led_off(i)
-        time.sleep(1)
 
     print("END OF LED TEST")
 
@@ -22,7 +21,6 @@ def test_all_piepser():
         hackerkoffer.piepser_on(i)
         time.sleep(1)
         hackerkoffer.piepser_off(i)
-        time.sleep(1)
 
     print("END OF PIEPSER TEST")
 
@@ -41,9 +39,9 @@ def test_seg7():
     for segment in range(4):
         for i in range(10):
             hackerkoffer.seg7_number(segment, i)
-            time.sleep(1.5)
+            time.sleep(1.0)
             hackerkoffer.seg7_raw(segment, hackerkoffer.SEG7_CLEAR)
-            time.sleep(1.5)
+
 
         time.sleep(2)
 
@@ -120,10 +118,10 @@ def test_panels():
 
 def test_all_outputs():
     print("BEGINNING OUTPUT TESTS")
-    #test_all_leds()
-    time.sleep(2)
+    test_all_leds()
+    #time.sleep(2)
     #test_all_piepser()
-    time.sleep(2)
+    #time.sleep(2)
     test_seg7()
     time.sleep(2)
     test_fan()
@@ -145,8 +143,8 @@ def test_display():
 
 
 def test_all():
-    #test_all_outputs()
-    test_all_inputs()
+    test_all_outputs()
+    #test_all_inputs()
     #test_display()
 
     print("TEST SUCCESSFUL, BOOYAH!")

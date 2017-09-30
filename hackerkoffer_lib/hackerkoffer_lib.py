@@ -2,7 +2,7 @@
 # or keep watch on hackerkoffer.input, .poti and .patchpanel
 import serial
 import threading
-
+import time
 
 class Hackerkoffer:
     SEG7_NUMBERS = [0x7e, 0x48, 0x3d, 0x6d, 0x4b, 0x67, 0x77, 0x4c, 0x7f, 0x6f, 0x5f, 0x73, 0x31, 0x79, 0x37, 0x17]
@@ -41,6 +41,7 @@ class Hackerkoffer:
 
         for c in data:
             self.ser.write(bytes(c, "utf-8"))
+            time.sleep(0.05)
 
         #while self.ser.out_waiting() > 0:
         #    pass
